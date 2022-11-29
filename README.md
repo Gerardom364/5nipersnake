@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @5nipersnake
-- 👀 I’m interested in furthering my knowlenge in the eclipse world of IT, Cybersercurity, and ML 
-- 🌱 I’m currently learning Python,ML
+- 👀 I’m interested in furthering my knowlenge in the eclipse world of AI,Electrical Systems
+- 🌱 I’m currently learning PythonLibraries,ML,C++
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me Gerardom3642@gmail.com
 
